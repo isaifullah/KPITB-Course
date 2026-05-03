@@ -391,4 +391,4 @@ else:
     </div>
     """, unsafe_allow_html=True)
 
-st.markdown('<div class="footer"><p>🚀 Powered by GPT-4o Mini | Professional Data Analyst behavior</p></div>', unsafe_allow_html=True)git rm -r --cached .
+st.markdown('<div class="footer"><p>🚀 Powered by GPT-4o Mini | Professional Data Analyst behavior</p></div>', unsafe_allow_html=True)
