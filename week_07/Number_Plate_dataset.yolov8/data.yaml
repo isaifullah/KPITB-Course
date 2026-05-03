@@ -1,0 +1,13 @@
+train: "C:\\Users\\Saif Ullah\\KPITB-Course\\week 7\\Number_Plate_dataset.yolov8\\train"
+val: "C:\\Users\\Saif Ullah\\KPITB-Course\\week 7\\Number_Plate_dataset.yolov8\\valid"
+test: "C:\\Users\\Saif Ullah\\KPITB-Course\\week 7\\Number_Plate_dataset.yolov8\\test"
+
+nc: 1
+names: ['license']
+
+roboflow:
+  workspace: furqans-workspace-n14rt
+  project: my-first-project-srkff
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/furqans-workspace-n14rt/my-first-project-srkff/dataset/2

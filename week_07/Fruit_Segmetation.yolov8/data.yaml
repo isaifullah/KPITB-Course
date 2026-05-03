@@ -1,0 +1,13 @@
+train: "C:\\Users\\Saif Ullah\\KPITB-Course\\week 7\\Fruit_Segmetation.yolov8\\train"
+val: "C:\\Users\\Saif Ullah\\KPITB-Course\\week 7\\Fruit_Segmetation.yolov8\\valid"
+test: "C:\\Users\\Saif Ullah\\KPITB-Course\\week 7\\Fruit_Segmetation.yolov8\\test"
+
+nc: 8
+names: ['banana', 'grapes', 'kiwi', 'lemon', 'mangoes', 'oranges', 'pear', 'strawberry']
+
+roboflow:
+  workspace: saifs-workspace-zasv3
+  project: fruit_segmetation
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/saifs-workspace-zasv3/fruit_segmetation/dataset/1
